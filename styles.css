@@ -325,6 +325,13 @@ footer p {
         justify-content: space-around;
     }
 
+    .info-pastillas {
+    padding: 40px 20px;
+    background: url(./imagenes/carretera3.png) no-repeat center center;
+    background-size: cover;
+    text-align: center;
+    }
+    
     .pastilla {
         width: 45%;
     }
@@ -400,4 +407,5 @@ footer p {
         align-items: flex-start;
         text-align: left;
     }
+
 }
