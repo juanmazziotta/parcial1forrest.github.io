@@ -330,6 +330,9 @@ footer p {
     background: url(./imagenes/carretera3.png) no-repeat center center;
     background-size: cover;
     text-align: center;
+    background-size: auto;
+    background-position: center center;
+    min-height: 500px;
     }
     
     .pastilla {
@@ -341,12 +344,6 @@ footer p {
         background-size: auto;
         background-position: center center;
         min-height: 600px;
-    }
-
-    .info-pastillas {
-        background-size: auto;
-        background-position: center center;
-        min-height: 500px;
     }
 
     .imagen-noticia {
@@ -409,4 +406,5 @@ footer p {
     }
 
 }
+
 
